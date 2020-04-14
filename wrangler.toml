@@ -1,0 +1,4 @@
+name = "cloudflare-submission-soujanya"
+type = "javascript"
+account_id = "8797c11a12e0dee3e247a7260c602b34"
+workers_dev = true
