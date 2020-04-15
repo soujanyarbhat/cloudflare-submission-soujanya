@@ -1,5 +1,13 @@
 # Cloudflare Workers Internship Application: Full-Stack
+The following [requirements](#requirements) and [extra credit tasks](#extra-credit) (1,2) under Task Description have been implemented<br/>
+URL to the deployed project: https://cloudflare-submission-soujanya.soujanya.workers.dev/
 
+**Note:** 
+1) The Variants are chosen at random as suggested in the requirement.
+2) The [Extra Credit](#2-persisting-variants) task's implementation makes sure they persist which URL is chosen in a cookie so that they always see the same variant, hence need to delete the cookie to see an other randomly chosen variant.
+
+
+## Task Description
 ## What is it?
 
 Using Cloudflare Workers, you'll deploy an application that will randomly send users to one of two webpages. This project will teach you how to write applications with the Cloudflare Workers API, manage and develop them using the command-line tool Wrangler, and deploy them to the free workers.dev deployment playground.
